@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "423751137271",
+    "firebase_url": "https://forever-7.firebaseio.com",
+    "project_id": "forever-7",
+    "storage_bucket": "forever-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423751137271:android:3e2a7abd21105e34",
+        "android_client_info": {
+          "package_name": "com.forever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423751137271-0n0muj3nkb7rhh11jkq43cnd65tmumkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forever",
+            "certificate_hash": "0092328cbafd1b2be5ccfa47bebe764baf40a650"
+          }
+        },
+        {
+          "client_id": "423751137271-jruuc1hv376rapugso7rg232heb7rdlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxuohBWhXVAl3VwwFsw0ApoGVFoNlZJwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423751137271-jruuc1hv376rapugso7rg232heb7rdlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

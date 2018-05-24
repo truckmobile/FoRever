@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoRever</string>
+    <string name="title_activity_truck_map">Map</string>
+    <string name="title_activity_car_map">Map</string>
+</resources>
